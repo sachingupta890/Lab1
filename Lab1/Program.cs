@@ -119,6 +119,7 @@ namespace Lab1
                 if (arr[i] == target)
                 {
                     index =  i;
+                    break;
                 }
             }
 
